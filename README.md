@@ -12,6 +12,9 @@
 
 ---
 
+<img width="1493" height="538" alt="image" src="https://github.com/user-attachments/assets/f79afdd4-597b-4042-8d7e-080315289f7c" />
+
+
 ### What is Truebit Protocol?
 
 Truebit Protocol is a decentralized off-chain computation marketplace designed to move complex computational tasks away from the blockchain mainnet and execute them off-chain, while ensuring the correctness of results through economic incentive mechanisms.
@@ -264,6 +267,9 @@ function 0xa0296215(uint256 varg0) public payable {
 }
 ```
 
+<img width="1296" height="278" alt="image" src="https://github.com/user-attachments/assets/9e6c198c-c106-4724-819c-63d4db3b1b33" />
+
+
 ### `sellTRU` function (selector: 0xc471b10b)
 
 ```solidity
@@ -301,6 +307,8 @@ function 0xc471b10b(uint256 varg0) public nonPayable {
     return v2;
 }
 ```
+
+<img width="1497" height="246" alt="image" src="https://github.com/user-attachments/assets/c55003b8-a1d6-4165-a709-1e68caeae748" />
 
 ### Execution Flow
 
@@ -356,6 +364,8 @@ function 0xc471b10b(uint256 varg0) public nonPayable {
 | 4 | 2,808,567,055,501,947,160,504,720,479 | ~0.015 ETH | 124 ETH | 124 ETH |
 | 5 | 12,548,923,878,784,675,664,886,517,494 | ~5.1 ETH | 8.3 ETH | 3.2 ETH |
 | **Total** | | **~5.1 ETH** | **~8,538 ETH** | **~8,535 ETH** |
+
+<img width="1552" height="280" alt="image" src="https://github.com/user-attachments/assets/6e5d98e3-3a9d-40f8-9c02-ad973638f033" />
 
 ### Trace Analysis
 
