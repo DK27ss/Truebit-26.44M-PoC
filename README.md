@@ -7,7 +7,7 @@
 | **Date** | January 8, 2026 |
 | **Protocol** | Truebit Protocol |
 | **Chain** | Ethereum |
-| **Loss** | ~8,535 ETH (~$26.44M USD) |
+| **Loss** | 8,535 ETH ($26.44M USD) |
 | **Attack Transaction** | [0xcd4755645595094a8ab984d0db7e3b4aabde72a5c87c4f176a030629c47fb014](https://etherscan.io/tx/0xcd4755645595094a8ab984d0db7e3b4aabde72a5c87c4f176a030629c47fb014) |
 
 ---
