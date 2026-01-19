@@ -138,6 +138,10 @@ function 0x1446(uint256 varg0) private {
 }
 ```
 
+<img width="1290" height="110" alt="image" src="https://github.com/user-attachments/assets/927096c7-ff86-46a5-95ee-d8bc981c132c" />
+
+<img width="1445" height="138" alt="image" src="https://github.com/user-attachments/assets/3dcf7a76-6758-4d50-a43a-3bc019bd948c" />
+
 The vulnerability is on the **final calculation line**:
 
 ```solidity
