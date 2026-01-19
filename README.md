@@ -374,8 +374,6 @@ function 0xc471b10b(uint256 varg0) public nonPayable {
 
 ---
 
-```
-
 ### Results
 
 ```
