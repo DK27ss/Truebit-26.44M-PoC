@@ -459,3 +459,12 @@ Amount 5: 12,548,923,878,784,675,664,886,517,494
 - [Truebit Protocol](https://truebit.io/)
 - [OpenZeppelin SafeMath](https://docs.openzeppelin.com/contracts/2.x/api/math)
 - [Solidity 0.8.0 Breaking Changes](https://docs.soliditylang.org/en/v0.8.0/080-breaking-changes.html)
+
+>
+>Company : https://blockraider.xyz/
+>
+>Community : https://discord.gg/Vqqt7jyRr7
+>
+>Disclosure : https://t.me/blockraider_alerts_bot
+
+<img width="161" height="51" alt="blockraider" src="https://github.com/user-attachments/assets/dc86222a-b5fb-49e8-9a9d-350973b7521d" />
